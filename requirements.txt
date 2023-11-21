@@ -1,0 +1,6 @@
+pickle
+streamlit
+streamlit_drawable_canvas.st_canvas
+numpy
+time
+PIL.Image
