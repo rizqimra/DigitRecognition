@@ -1,5 +1,5 @@
 ﻿streamlit
 streamlit_drawable_canvas
 numpy == 1.23.5
-PIL == 9.4.0
+pillow == 9.4.0
 scikit-learn == 1.2.2
